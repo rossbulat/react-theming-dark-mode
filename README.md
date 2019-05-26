@@ -1,6 +1,6 @@
 # React Dark Mode with Styled Theming and Context
 
-### This repository coincides with a walkthrough available to read on Medium.
+### This repository coincides with a walkthrough available to read on Medium [here](https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400).
 
 Dark mode is becoming more commonly supported in apps, both on the web and natively. 
 
